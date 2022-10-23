@@ -11,6 +11,10 @@
 ⚡  Yes, of course, I am athletic… I surf the Internet every day.
 
 
+## Skills
+ JavaScript HTML5 React CSS3 MySQL
+
+
 
 
 <!---
