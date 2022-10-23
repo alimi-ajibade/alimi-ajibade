@@ -2,7 +2,7 @@
 
 ### An Enthusiastic Backend Engineer 💻 
 
-🌍  I'm based in Lagos, Nigeria
+🌍  I'm based in Ogun State, Nigeria
 
 📫  You can contact me at davidalimi148@gmail.com
 
