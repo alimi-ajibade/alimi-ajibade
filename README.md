@@ -28,8 +28,11 @@
 
 ## My Github Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellosolo&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/HelloSolo)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hellosolo&theme=radical&hide_border=false)](https://github.com/HelloSolo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosolo&layout=compact&theme=radical)](https://github.com/HelloSolo)
 
 
 
