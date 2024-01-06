@@ -12,13 +12,18 @@
 
 
 ## Skills
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392882-311cfd6d-79b1-4532-b2f4-72d6f66e3c3e.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392953-e6b26b57-d05c-4f15-b2b7-4b4883aa5f5e.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392411-36c76acb-2aeb-4e0b-ab9f-75eaa65c8734.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392433-e10c2e92-3711-4695-8e28-ee9f121f3c3e.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392445-09421f2b-f27d-46f9-8372-02c6c01dd6a0.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392456-5acb3279-3173-48ad-9f19-5182fcac94cb.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197392466-4b9378ca-95cf-4787-872d-ab93318d4201.png" height="50" /></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MaongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp;
 
 
 ## Socials
