@@ -10,6 +10,8 @@
 
 ⚡  Yes, of course, I am athletic… I surf the Internet every day.
 
+<a href="https://flowcv.com/resume/qmwvhler0f" target="blank">Here is my résumé</a>
+
 
 ## :hammer_and_wrench: Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
