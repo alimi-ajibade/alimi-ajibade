@@ -35,11 +35,11 @@
 
 ## My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellosolo&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/alimi-ajibade)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimi-ajibade&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/alimi-ajibade)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hellosolo&theme=radical&hide_border=false)](https://github.com/alimi-ajibade)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alimi-ajibade&theme=radical&hide_border=false)](https://github.com/alimi-ajibade)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosolo&layout=compact&theme=radical)](https://github.com/alimi-ajibade)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimi-ajibade&layout=compact&theme=radical)](https://github.com/alimi-ajibade)
 
 
 
