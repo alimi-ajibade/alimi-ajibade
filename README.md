@@ -1,6 +1,6 @@
 # Hi 👋 My name is David Alimi
 
-### An Enthusiastic Backend Engineer 💻 
+### I'm an Enthusiastic Full Stack Developer  💻 
 
 🌍  I'm based in Lagos State, Nigeria
 
