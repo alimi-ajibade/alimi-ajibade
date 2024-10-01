@@ -6,9 +6,9 @@
 
 📫  You can contact me at davidalimi148@gmail.com
 
-🚀  I'm currently at the Federal University of Technology Akure as a Computer Science student
+<!--🚀  I'm currently at the Federal University of Technology Akure as a Computer Science student-->
 
-⚡  Yes, of course, I am athletic… I surf the Internet every day.
+⚡  Yes, of course, I am athletic… I enjoy video games.
 
 <!--<a href="https://flowcv.com/resume/qmwvhler0f" target="blank">Here is my résumé</a>-->
 
