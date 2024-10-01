@@ -1,6 +1,6 @@
 # Hi 👋 My name is David Alimi
 
-### I'm an Enthusiastic Backend Developer  💻 
+### I'm an Enthusiastic Backend Engineer  💻 
 
 🌍  I'm based in Lagos State, Nigeria
 
@@ -14,8 +14,8 @@
 
 
 ## :hammer_and_wrench: Languages and Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;-->
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -30,10 +30,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 
 
-## Socials
-<a href="https://www.linkedin.com/in/david-alimi-7554a2225" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197393289-09349dab-7711-419e-88bf-5654430189d8.png" height="50" /></a>
-<a href="https://twitter.com/David18839921" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197393320-8b374101-cd17-4984-be9e-13695edb862d.png" height="50" /></a>
-<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197393422-9c54c5c5-4365-47a7-9798-9d39fff4c95b.png" height="50" /></a>
+<!--## Socials-->
+<!--<a href="https://www.linkedin.com/in/david-alimi-7554a2225" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197393289-09349dab-7711-419e-88bf-5654430189d8.png" height="50" /></a>-->
+<!--<a href="https://twitter.com/David18839921" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197393320-8b374101-cd17-4984-be9e-13695edb862d.png" height="50" /></a>-->
+<!--<a href="https://github.com/HelloSolo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/53340882/197393422-9c54c5c5-4365-47a7-9798-9d39fff4c95b.png" height="50" /></a>-->
 
 ## My Github Stats
 
