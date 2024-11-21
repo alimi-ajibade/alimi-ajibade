@@ -27,8 +27,21 @@
   alt="Flask"
   width="50"
   height="50"
-  style="background-color: white; padding: 5px;"
-/>
+/>&nbsp;
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg"
+  title="FastApi"
+  alt="FastApi"
+  width="50"
+  height="50"
+/>&nbsp;
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
+  title="Nextjs"
+  alt="Nextjs"
+  width="50"
+  height="50"
+/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MaongoDB" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
