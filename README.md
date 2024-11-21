@@ -4,7 +4,7 @@
 
 🌍  I'm based in Lagos State, Nigeria
 
-📫  You can contact me at davidalimi148@gmail.com
+📫  You can contact me at alimi.o.ajibade@gmail.com
 
 <!--🚀  I'm currently at the Federal University of Technology Akure as a Computer Science student-->
 
