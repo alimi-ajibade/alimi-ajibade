@@ -22,7 +22,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 <img
-  src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"
+  src="[https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg)"
   title="Flask"
   alt="Flask"
   width="50"
