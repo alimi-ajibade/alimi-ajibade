@@ -2,52 +2,17 @@
 
 ### I'm an Enthusiastic Software Engineer (Backend)  💻 
 
-🌍  I'm based in Lagos State, Nigeria
-
 📫  You can contact me at alimi.o.ajibade@gmail.com
-
-<!--🚀  I'm currently at the Federal University of Technology Akure as a Computer Science student-->
 
 ⚡  Yes, of course, I am athletic… I enjoy video games.
 
-<!--<a href="https://flowcv.com/resume/qmwvhler0f" target="blank">Here is my résumé</a>-->
-
 
 ## :hammer_and_wrench: Languages and Tools
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"
-  title="Flask"
-  alt="Flask"
-  width="50"
-  height="50"
-/>&nbsp;
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg"
-  title="FastApi"
-  alt="FastApi"
-  width="50"
-  height="50"
-/>&nbsp;
-<img
-  src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
-  title="Nextjs"
-  alt="Nextjs"
-  width="50"
-  height="50"
-/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MaongoDB" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,flask,django,fastapi,express,nextjs,mongodb,postgres,mysql,git,docker,azure"/>
+<!--   <div><img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" /></div>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/huggingface.svg" /> -->
+</div>
 
 
 <!--## Socials-->
